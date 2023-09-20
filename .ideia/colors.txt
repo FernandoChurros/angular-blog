@@ -1,0 +1,8 @@
+
+background: #F8F9FC
+title: #1E0A47
+button-gradient: #F8F9FC -> #F8F9FC
+paragraph: #F8F9FC
+blue: #F8F9FC
+purple: #3E2B62
+purple-hightlight: #6131E2
