@@ -10,6 +10,9 @@
 
 .articles__others {
    width: 50%;
+   display: flex;
+   flex-direction: column;
+   row-gap: 2rem;
 }
 
 .articles__main, .articles__others {

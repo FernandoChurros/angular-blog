@@ -51,10 +51,17 @@
       border-collapse: collapse;
       border-spacing: 0;
    }
+   a {
+      text-decoration: none;
+   }
 /**/
 
 * {
    font-family: 'Poppins', sans-serif;
    box-sizing: border-box;
    background-color: #111;
+}
+
+body {
+   padding: 0 2rem;
 }
