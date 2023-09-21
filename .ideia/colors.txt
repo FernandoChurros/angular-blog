@@ -1,8 +1,9 @@
 
-background: #F8F9FC
-title: #1E0A47
-button-gradient: #F8F9FC -> #F8F9FC
-paragraph: #F8F9FC
-blue: #F8F9FC
-purple: #3E2B62
-purple-hightlight: #6131E2
+   --color-bg: #F8F9FC;
+   --color-title: #1E0A47;
+   --color-paragraph: #C0C3D2;
+   --blue: #5362D0;
+   --purple: #3E2B62;
+   --purple-highlight: #6131E2;
+   --button-gradient-one: #2740C6;
+   --button-gradient-two: #2D2E96;
