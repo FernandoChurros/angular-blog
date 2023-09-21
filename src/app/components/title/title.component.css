@@ -1,0 +1,12 @@
+
+h1 {
+   color: #F5F5F5;
+   font-weight: 700;
+   font-size: 13rem;
+   margin: 2rem auto;
+   line-height: 1.25;
+   text-align: center;
+   border-top: 1px solid #f5f5f510;
+   border-bottom: 1px solid #f5f5f510;
+   width: 90%;
+}
