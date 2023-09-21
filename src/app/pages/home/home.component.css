@@ -1,0 +1,17 @@
+
+.articles {
+   display: flex;
+   column-gap: 2rem;
+}
+
+.articles__main {
+   width: 50%;
+}
+
+.articles__others {
+   width: 50%;
+}
+
+.articles__main, .articles__others {
+   padding: 1rem;
+}
