@@ -10,7 +10,7 @@ export class BigCardComponent implements OnInit {
   @Input()
   photo:string = '';
   @Input()
-  autor:string = '';
+  author:string = '';
   @Input()
   title:string = '';
   @Input()
